@@ -1,9 +1,9 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 21/02/2022
+/* Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 21/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa 
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructurada
 Ciclo: 01/2022
 
-Este es un programa de ciclos en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de ciclos en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 
     -Variables enteras y flotantes
@@ -12,11 +12,11 @@ Muestra el uso de:
     -El uso de include para las librerias
     -for
     -Contador en el for
-    -Comentarios para la documentaci髇 interna del programa.
+    -Comentarios para la documentaci贸n interna del programa.
 */
 #include<stdio.h>
 int main() {
-	//Declaraci髇 de variables
+	//Declaraci贸n de variables
 	float numero, suma=0;
 	int cuantos;
 	//Procesos
